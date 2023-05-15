@@ -1,1 +1,3 @@
-Cold and dry, but everything is my favorite color
+Cold and dry, but everything is my favorite color # A is for accessed
+The two moons may be a problem for Wolfman # blue M is short for modified, not commit in Git yet though aka not Git's problem yet
+But the Mummy will appreciate the lack of humidity
